@@ -1,4 +1,6 @@
-# NLP Repository for Homeworks
+# NLP Repository
+
+### Word representations
 
   1-  Bag-of Words: <br>
         [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ismailyou/nlp_repo/main?filepath=Bow.ipynb) 
