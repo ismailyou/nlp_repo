@@ -15,5 +15,6 @@
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ismailyou/nlp_repo/main?filepath=Word2Vec.ipynb)
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ismailyou/nlp_repo/blob/main?filepath=Word2Vec.ipynb)<br>
   
-  5-  GloVe<br>
-
+  5-  Word Embedding using Keras<br>
+ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ismailyou/nlp_repo/main?filepath=word_embedding_keras.ipynb)
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ismailyou/nlp_repo/blob/main?filepath=word_embedding_keras.ipynb)<br>
