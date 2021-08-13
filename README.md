@@ -29,6 +29,6 @@
 
 ## Transformer
    *  **Hugging Face:**<br>
-   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ismailyou/nlp_repo/main?filepath=whuggingface_pipeline.ipynb)
+   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ismailyou/nlp_repo/main?filepath=huggingface_pipeline.ipynb)
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ismailyou/nlp_repo/blob/main?filepath=huggingface_pipeline.ipynb)<br>
  
