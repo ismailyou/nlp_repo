@@ -18,7 +18,7 @@
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ismailyou/nlp_repo/blob/main?filepath=word_embedding_keras.ipynb)<br>
 
 ## Transformer
-  *  **Hugging Face:**
+   *  **Hugging Face:**<br>
    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ismailyou/nlp_repo/main?filepath=whuggingface_pipeline.ipynb)
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ismailyou/nlp_repo/blob/main?filepath=huggingface_pipeline.ipynb)<br>
  
