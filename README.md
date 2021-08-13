@@ -2,11 +2,11 @@
 
 ## Text Preprocessing
 *  **NLTK** <br>
-      - Repo : https://github.com/ismailyou/Spacy
+      - Repo : https://github.com/ismailyou/Spacy<br>
       [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ismailyou/nltk/main?filepath=NLTK.ipynb)
       [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ismailyou/nltk/blob/main?filepath=NLTK.ipynb)<br>
   *  **Spacy** <br>
-      - Repo : https://github.com/ismailyou/Spacy
+      - Repo : https://github.com/ismailyou/Spacy<br>
       [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ismailyou/Spacy/main?filepath=spacy.ipynb)
       [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ismailyou/nltk/blob/main?filepath=spacy.ipynb)<br>
 
